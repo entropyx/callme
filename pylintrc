@@ -1,0 +1,34 @@
+[MESSAGES CONTROL]
+
+# Disable the message(s) with the given id(s).
+disable=C0103,C0111,W0106,W0141,W0142,W0703,F0401,R0801
+
+[BASIC]
+
+# Variable names can be 1 to 31 characters long, with lowercase and underscores
+variable-rgx=[a-z_][a-z0-9_]{0,30}$
+
+# Argument names can be 2 to 31 characters long, with lowercase and underscores
+argument-rgx=[a-z_][a-z0-9_]{1,30}$
+
+# Method names should be at least 3 characters long and be lowecased with
+# underscores
+method-rgx=[a-z_][a-z0-9_]{2,50}$
+
+# Don't require docstrings on tests.
+no-docstring-rgx=((__.*__)|([tT]est.*)|setUp|tearDown)$
+
+[DESIGN]
+max-args=12
+max-attributes=20
+max-branchs=30
+max-public-methods=100
+max-statements=60
+min-public-methods=0
+
+[REPORTS]
+output-format=parseable
+include-ids=yes
+
+[VARIABLES]
+additional-builtins=_

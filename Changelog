@@ -1,0 +1,38 @@
+================
+ Change history
+================
+
+.. _version-0.2.0:
+
+0.2.0
+=====
+:release-date: 2014-07-12 13:29 CET
+
+* added Python 3 support
+* added tox oriented testing
+* improved proxy timeout handling
+* added code linting
+
+
+.. _version-0.1.0:
+
+0.1.0
+=====
+:release-date: 2011-08-10 15:30 CET
+
+
+* added base functionality (RPC Server and Proxy)
+* added SSL support
+* added permission support
+* added Documentation
+* added Examples
+* added threading support on server
+
+.. _version-0.0.0:
+
+0.0.0 
+=====
+:release-date: 2011-07-28 15:29 CET
+
+* Created this changelog and build base package structure
+

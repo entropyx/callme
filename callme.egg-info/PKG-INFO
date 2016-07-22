@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: callme
+Version: 0.2.0.post0
+Summary: Python AMQP RPC module
+Home-page: UNKNOWN
+Author: Christian Haintz
+Author-email: christian.haintz@orangelabs.at
+License: BSD
+Description: UNKNOWN
+Keywords: amqp rpc
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
